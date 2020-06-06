@@ -3,6 +3,7 @@ Data analysis of Banknote authentication dataset from UCI ML Repository
 (https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 
 (From the source:)
+
  Abstract: Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes.
 
  Source:
